@@ -48,7 +48,7 @@ body {
 
 .card__image {
     width: 100%;
-    height: 180px;
+    height: 500px;
     object-fit: cover;
 }
 .card__body {
@@ -76,16 +76,16 @@ body {
     font-weight: 700;
 }
 
-.badge {
+.read {
     font-size: 12px;
     padding: 4px 10px;
     border-radius: 999px;
 }
-.badge--yes {
+.read--yes {
     background: #dcfce7;
     color: #166534;
 }
-.badge--no {
+.read--no {
     background: #fee2e2;
     color: #991b1b;
 }
